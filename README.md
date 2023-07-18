@@ -24,8 +24,4 @@ To run the DApp, follow these steps:
    ```
    npm start
    ```
-   ```
-   npm start
-   ```
-
    The DApp will be accessible in your web browser at `http://localhost:3000`.
